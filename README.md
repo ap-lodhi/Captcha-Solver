@@ -4,4 +4,7 @@
 
 # How to use 
 - To use just we have to run the command  node index.js and  url of image 
- - node index.js "https://i.ibb.co/jTKYQqP/Captcha-United.png"
+- <img src="https://i.ibb.co/jTKYQqP/Captcha-United.png" width="350" align="right" alt="" />
+
+ - Input  ->  node index.js "https://i.ibb.co/jTKYQqP/Captcha-United.png"
+ - Output -> chvcnm
